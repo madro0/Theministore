@@ -1,0 +1,48 @@
+body{
+	margin: 0 auto;
+	background-image: url("../imagenes/primer_fondo.jpg");  
+	background-repeat: no-repeat;
+	background-size: 100% 720px;
+}
+.container{
+	width: 500px;
+	height: 400px;
+	text-align: center;
+	border-radius: 10px;
+	background-color: rgb(52,73,94,0.4); /*#34495E el cuarto de rgb es para trasparencia*/
+	margin-top: 150px
+	border-radius: 05px;
+	margin: 0 auto;
+	margin-top: 150px;
+	font-family: Century Gothic; 
+}
+.cointainer img{
+	width: 120px;
+	height: 120px;
+	margin-top: -60px;
+	margin-bottom: 30px;
+}
+input[type="text"],input[type="password"]{
+	height: 45px; /*para modificar los campos de texto*/
+	width: 300px;
+	border-bottom: solid .1rem #D8D8D8;
+	font-family: Century Gothic; /* para cambiar tipo de fuente*/
+/*para modificar la margen de los campos de texto*/
+	background-color: rgb(255,255,255,0.0);
+	font-weight: 600;
+}
+
+
+.boton-entrar{
+	padding: 15px 30px;
+	cursor: pointer;
+	color: #fff; /*color de las letras en este caso blanco*/
+	border: none;
+	font-family: Century Gothic; /* para cambiar tipo de fuente*/
+	background-color: #FF5733;
+	border-bottom: 4px solid #C54327; /*para darle al boton una especie de base*/
+	margin-bottom: 20px;
+}
+.abisponblanco{
+	color:#fff;
+}

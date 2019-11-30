@@ -1,0 +1,16 @@
+
+.borde{
+	width: 100%;
+	text-align: center;
+	padding: 2rem 0 1rem;
+	border-top: solid .1rem #A4A4A4;
+	border-left: solid .1rem #A4A4A4;
+	border-right: solid .12rem #A4A4A4;
+	border-bottom: solid .1rem #A4A4A4;
+	margin-bottom: 1rem;
+	border-radius: 10px;
+}
+h1 span {
+	color: #F39B53;
+	font-family: Century Gothic; 
+}

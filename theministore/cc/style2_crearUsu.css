@@ -1,0 +1,73 @@
+body{
+
+	margin: 0 auto;
+	background-image: url("../imagenes/iconos/Crear_usuario.png");  
+	background-repeat: no-repeat;
+	background-size: 256px 256px;
+	background-position: center;
+
+
+}
+
+h2 span {
+	color: #F39B53;
+	font-family: Century Gothic; 
+}
+p{
+	font-family: Century Gothic; 
+}
+input{
+	font-family: Century Gothic; 
+	background-color: rgb(255,255,255,0.0);
+}
+div{
+	font-family: Century Gothic; 
+}
+.container {
+	max-width: 450px;
+	height: 850px;
+	height: auto;
+	text-align: center;
+	background-color: rgb(255,255,255,0.7);
+	margin: 5% auto;
+	padding-bottom: 1rem;
+	border-top: solid .1rem #A4A4A4;
+	border-left: solid .1rem #A4A4A4;
+	border-right: solid .12rem #A4A4A4;
+	border-bottom: solid .1rem #A4A4A4;
+	margin-bottom: 1rem;
+	border-radius: 10px;
+	
+}
+
+.form_arribita h2 {
+	font-weight: bold;
+	color: #CAC8C8;
+	font-size: 18px;
+	font-family: Century Gothic; 
+}
+.form_campos {
+	padding: 0 2rem;
+	display: flex;
+	text-align: left;
+	flex-direction: column;
+	justify-content: center;
+}
+.btn__form {
+	display: flex;
+	justify-content: space-around;
+	margin-top: 1rem;
+}
+
+.contenedor2{
+	width: 100%;
+	text-align: center;
+	justify-content: space-around;
+	padding: 2rem 0 1rem;
+}
+.btn_registrar{
+	width: 40%;
+	border-bottom: none;
+	background-color: #31B1E5;
+	color: white;
+}
